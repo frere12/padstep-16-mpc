@@ -1,0 +1,54 @@
+/* PadStep 16 skin: the light grey panel, dark encoders and blue steps of the HTML step sequencer.
+ * Loaded after open-mpc tools/html_art/default.css; colours come from the layout's theme_* lines. */
+@font-face { font-family: "Barlow Condensed"; font-weight: 500; src: url("fonts/barlow-condensed-latin-500-normal.woff2"); }
+@font-face { font-family: "Barlow Condensed"; font-weight: 600; src: url("fonts/barlow-condensed-latin-600-normal.woff2"); }
+@font-face { font-family: "Barlow Condensed"; font-weight: 700; src: url("fonts/barlow-condensed-latin-700-normal.woff2"); }
+
+:root {
+  --font: "Barlow Condensed", "Titillium Web", sans-serif;
+  --title-size: 24px;
+  --label-size: 20px;
+  --seg-size: 20px;
+  --button-size: 21px;
+  --radius: 7px;
+  --sheen: 0.06;
+  --shadow: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.28));
+}
+
+text { font-weight: 600; }
+
+/* frames: a slightly recessed panel area with a dark engraved title */
+.frame-border { fill: rgba(0, 0, 0, 0.035); stroke: #b0ada8; stroke-width: 1.5; }
+.frame-rule { stroke: #bdb9b3; }
+.frame-title { fill: #3a3a40; font-weight: 700; letter-spacing: 0.12em; }
+.text, .box-label { fill: #4a4a52; font-weight: 700; letter-spacing: 0.1em; }
+
+/* encoders: dark knob, white indicator, blue value arc on a light track */
+.knob-face { fill: #2c2c33; stroke: #55555c; stroke-width: 1.5; filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.35)); }
+.knob-pointer { stroke: #f2f2f2; }
+.knob-track { stroke: #b6b2ac; }
+.knob-arc { stroke: #4488dd; }
+
+/* option segments: grey keys, the chosen one blue */
+.seg-bg { rx: 5px; stroke: #a0a0a0; stroke-width: 1; }
+.seg-tx { font-weight: 700; letter-spacing: 0.06em; }
+
+/* trigger buttons: the grey hardware keys */
+.button-bg { stroke: #9c9a96; stroke-width: 1.2; }
+.button-tx { fill: #3a3a40; font-weight: 700; letter-spacing: 0.1em; }
+
+/* readouts: the dark display */
+.box { fill: #1a1a20; stroke: #0e0e12; stroke-width: 2; rx: 6px; }
+
+/* sliders: dark well, blue level, light thumb */
+.slider-well { fill: #26262c; rx: 6px; }
+.slider-fill { fill: #4488dd; }
+.slider-thumb { fill: #efede9; stroke: #6b6b70; }
+
+/* toggles (look=led): a red LED, as the hardware's lit keys */
+.look-led-bezel { fill: #c0bcb6; stroke: #8e8b86; stroke-width: 1.5; }
+.look-led { fill: #6e2a28; }
+.on .look-led { fill: #ff4a45; filter: drop-shadow(0 0 7px #ff5550); }
+
+/* sized buttons: one text size for all (the renderer shrinks each label to fit otherwise) */
+.button-tx { font-size: 23px !important; }

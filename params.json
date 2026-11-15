@@ -1,0 +1,1529 @@
+{
+ "name": "PadStep 16",
+ "params": [
+  {
+   "key": "st_1",
+   "name": "Step 1",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_2",
+   "name": "Step 2",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_3",
+   "name": "Step 3",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_4",
+   "name": "Step 4",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_5",
+   "name": "Step 5",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_6",
+   "name": "Step 6",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_7",
+   "name": "Step 7",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_8",
+   "name": "Step 8",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_9",
+   "name": "Step 9",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_10",
+   "name": "Step 10",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_11",
+   "name": "Step 11",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_12",
+   "name": "Step 12",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_13",
+   "name": "Step 13",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_14",
+   "name": "Step 14",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_15",
+   "name": "Step 15",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "st_16",
+   "name": "Step 16",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_1",
+   "name": "Play 1",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_2",
+   "name": "Play 2",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_3",
+   "name": "Play 3",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_4",
+   "name": "Play 4",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_5",
+   "name": "Play 5",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_6",
+   "name": "Play 6",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_7",
+   "name": "Play 7",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_8",
+   "name": "Play 8",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_9",
+   "name": "Play 9",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_10",
+   "name": "Play 10",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_11",
+   "name": "Play 11",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_12",
+   "name": "Play 12",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_13",
+   "name": "Play 13",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_14",
+   "name": "Play 14",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_15",
+   "name": "Play 15",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "ph_16",
+   "name": "Play 16",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_1",
+   "name": "Slot 1",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_2",
+   "name": "Slot 2",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_3",
+   "name": "Slot 3",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_4",
+   "name": "Slot 4",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_5",
+   "name": "Slot 5",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_6",
+   "name": "Slot 6",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_7",
+   "name": "Slot 7",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_8",
+   "name": "Slot 8",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_9",
+   "name": "Slot 9",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_10",
+   "name": "Slot 10",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_11",
+   "name": "Slot 11",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_12",
+   "name": "Slot 12",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_13",
+   "name": "Slot 13",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_14",
+   "name": "Slot 14",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_15",
+   "name": "Slot 15",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sl_16",
+   "name": "Slot 16",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "p_1",
+   "name": "Pitch 1",
+   "min": 24,
+   "max": 96,
+   "default": 57,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_2",
+   "name": "Pitch 2",
+   "min": 24,
+   "max": 96,
+   "default": 60,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_3",
+   "name": "Pitch 3",
+   "min": 24,
+   "max": 96,
+   "default": 64,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_4",
+   "name": "Pitch 4",
+   "min": 24,
+   "max": 96,
+   "default": 57,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_5",
+   "name": "Pitch 5",
+   "min": 24,
+   "max": 96,
+   "default": 67,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_6",
+   "name": "Pitch 6",
+   "min": 24,
+   "max": 96,
+   "default": 64,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_7",
+   "name": "Pitch 7",
+   "min": 24,
+   "max": 96,
+   "default": 60,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_8",
+   "name": "Pitch 8",
+   "min": 24,
+   "max": 96,
+   "default": 62,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_9",
+   "name": "Pitch 9",
+   "min": 24,
+   "max": 96,
+   "default": 57,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_10",
+   "name": "Pitch 10",
+   "min": 24,
+   "max": 96,
+   "default": 60,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_11",
+   "name": "Pitch 11",
+   "min": 24,
+   "max": 96,
+   "default": 64,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_12",
+   "name": "Pitch 12",
+   "min": 24,
+   "max": 96,
+   "default": 69,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_13",
+   "name": "Pitch 13",
+   "min": 24,
+   "max": 96,
+   "default": 67,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_14",
+   "name": "Pitch 14",
+   "min": 24,
+   "max": 96,
+   "default": 64,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_15",
+   "name": "Pitch 15",
+   "min": 24,
+   "max": 96,
+   "default": 62,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "p_16",
+   "name": "Pitch 16",
+   "min": 24,
+   "max": 96,
+   "default": 60,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "v_1",
+   "name": "Velocity 1",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_2",
+   "name": "Velocity 2",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_3",
+   "name": "Velocity 3",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_4",
+   "name": "Velocity 4",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_5",
+   "name": "Velocity 5",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_6",
+   "name": "Velocity 6",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_7",
+   "name": "Velocity 7",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_8",
+   "name": "Velocity 8",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_9",
+   "name": "Velocity 9",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_10",
+   "name": "Velocity 10",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_11",
+   "name": "Velocity 11",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_12",
+   "name": "Velocity 12",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_13",
+   "name": "Velocity 13",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_14",
+   "name": "Velocity 14",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_15",
+   "name": "Velocity 15",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "v_16",
+   "name": "Velocity 16",
+   "min": 1,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "dir",
+   "name": "Mode",
+   "options": [
+    "FWD",
+    "REV",
+    "ALT",
+    "RAND"
+   ],
+   "default": 0
+  },
+  {
+   "key": "scale",
+   "name": "Scale",
+   "options": [
+    "Chromatic",
+    "Major",
+    "Minor",
+    "Dorian",
+    "Mixolydian",
+    "Harm Min",
+    "Blues"
+   ],
+   "default": 0
+  },
+  {
+   "key": "rate",
+   "name": "Step Size",
+   "options": [
+    "1/4",
+    "1/8",
+    "1/16",
+    "1/32"
+   ],
+   "default": 2
+  },
+  {
+   "key": "len",
+   "name": "Length",
+   "min": 1,
+   "max": 16,
+   "default": 16,
+   "display": "int"
+  },
+  {
+   "key": "swing",
+   "name": "Swing %",
+   "min": 50,
+   "max": 75,
+   "default": 50,
+   "display": "int"
+  },
+  {
+   "key": "gate",
+   "name": "Gate %",
+   "min": 50,
+   "max": 99,
+   "default": 50,
+   "display": "int"
+  },
+  {
+   "key": "legato",
+   "name": "Legato",
+   "options": [
+    "Off",
+    "On",
+    "Reset"
+   ],
+   "default": 0
+  },
+  {
+   "key": "transpose",
+   "name": "Transpose",
+   "min": -24,
+   "max": 24,
+   "default": 0,
+   "display": "int"
+  },
+  {
+   "key": "chan",
+   "name": "MIDI Channel",
+   "min": 1,
+   "max": 16,
+   "default": 1,
+   "display": "int"
+  },
+  {
+   "key": "pad_mode",
+   "name": "Pads",
+   "options": [
+    "Steps",
+    "Transpose"
+   ],
+   "default": 0
+  },
+  {
+   "key": "pad_base",
+   "name": "Pad Base Note",
+   "min": 0,
+   "max": 112,
+   "default": 24,
+   "display": "int"
+  },
+  {
+   "key": "rand_lo",
+   "name": "Rand Oct Low",
+   "min": 2,
+   "max": 4,
+   "default": 3,
+   "display": "int"
+  },
+  {
+   "key": "rand_hi",
+   "name": "Rand Oct High",
+   "min": 3,
+   "max": 5,
+   "default": 4,
+   "display": "int"
+  },
+  {
+   "key": "shift",
+   "name": "Shift",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "chanm",
+   "name": "Chan",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "store",
+   "name": "Store",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "recall",
+   "name": "Recall",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "random",
+   "name": "Randomize",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "mutate",
+   "name": "Mutate",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "shl",
+   "name": "Shift Left",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "shr",
+   "name": "Shift Right",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "reverse",
+   "name": "Reverse",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "clear",
+   "name": "Clear",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "undo",
+   "name": "Undo",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "info",
+   "name": "Info",
+   "display": "string",
+   "type": "readout",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "pad_info",
+   "name": "Last Pad",
+   "display": "string",
+   "type": "readout",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "learn",
+   "name": "Pad Learn",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "chain_on",
+   "name": "Chain Play",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "chain_edit",
+   "name": "Chain Edit",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "chain_back",
+   "name": "Chain Back",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "chain_clear",
+   "name": "Chain Clear",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "chain_view",
+   "name": "Chain",
+   "display": "string",
+   "type": "readout",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "vmaster",
+   "name": "Velocity Master",
+   "min": 0,
+   "max": 127,
+   "default": 100,
+   "display": "int"
+  },
+  {
+   "key": "vm_mode",
+   "name": "Master Mode",
+   "options": [
+    "Scale",
+    "Set"
+   ],
+   "default": 0
+  },
+  {
+   "key": "vp_saw",
+   "name": "Vel Saw",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "vp_ramp",
+   "name": "Vel Ramp",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "vp_sine",
+   "name": "Vel Sine",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "vp_tri",
+   "name": "Vel Triangle",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "vp_rand",
+   "name": "Vel Random",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "tie_1",
+   "name": "Tie 1",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_2",
+   "name": "Tie 2",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_3",
+   "name": "Tie 3",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_4",
+   "name": "Tie 4",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_5",
+   "name": "Tie 5",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_6",
+   "name": "Tie 6",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_7",
+   "name": "Tie 7",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_8",
+   "name": "Tie 8",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_9",
+   "name": "Tie 9",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_10",
+   "name": "Tie 10",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_11",
+   "name": "Tie 11",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_12",
+   "name": "Tie 12",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_13",
+   "name": "Tie 13",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_14",
+   "name": "Tie 14",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_15",
+   "name": "Tie 15",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "tie_16",
+   "name": "Tie 16",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_1",
+   "name": "Ratchet 1",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_2",
+   "name": "Ratchet 2",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_3",
+   "name": "Ratchet 3",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_4",
+   "name": "Ratchet 4",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_5",
+   "name": "Ratchet 5",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_6",
+   "name": "Ratchet 6",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_7",
+   "name": "Ratchet 7",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_8",
+   "name": "Ratchet 8",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_9",
+   "name": "Ratchet 9",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_10",
+   "name": "Ratchet 10",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_11",
+   "name": "Ratchet 11",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_12",
+   "name": "Ratchet 12",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_13",
+   "name": "Ratchet 13",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_14",
+   "name": "Ratchet 14",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_15",
+   "name": "Ratchet 15",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "rat_16",
+   "name": "Ratchet 16",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "pr_1",
+   "name": "Chance 1",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_2",
+   "name": "Chance 2",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_3",
+   "name": "Chance 3",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_4",
+   "name": "Chance 4",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_5",
+   "name": "Chance 5",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_6",
+   "name": "Chance 6",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_7",
+   "name": "Chance 7",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_8",
+   "name": "Chance 8",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_9",
+   "name": "Chance 9",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_10",
+   "name": "Chance 10",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_11",
+   "name": "Chance 11",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_12",
+   "name": "Chance 12",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_13",
+   "name": "Chance 13",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_14",
+   "name": "Chance 14",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_15",
+   "name": "Chance 15",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "pr_16",
+   "name": "Chance 16",
+   "min": 0,
+   "max": 100,
+   "default": 100,
+   "display": "int",
+   "dynamic_display": true
+  },
+  {
+   "key": "entry",
+   "name": "Step Entry",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  },
+  {
+   "key": "entry_rest",
+   "name": "Entry Rest",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "entry_back",
+   "name": "Entry Back",
+   "type": "trigger",
+   "momentary": true
+  },
+  {
+   "key": "sld_1",
+   "name": "Slide 1",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_2",
+   "name": "Slide 2",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_3",
+   "name": "Slide 3",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_4",
+   "name": "Slide 4",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_5",
+   "name": "Slide 5",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_6",
+   "name": "Slide 6",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_7",
+   "name": "Slide 7",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_8",
+   "name": "Slide 8",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_9",
+   "name": "Slide 9",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_10",
+   "name": "Slide 10",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_11",
+   "name": "Slide 11",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_12",
+   "name": "Slide 12",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_13",
+   "name": "Slide 13",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_14",
+   "name": "Slide 14",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_15",
+   "name": "Slide 15",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "sld_16",
+   "name": "Slide 16",
+   "display": "string",
+   "min": 0,
+   "max": 1,
+   "default": 0
+  },
+  {
+   "key": "slide_cc",
+   "name": "Slide CC65",
+   "options": [
+    "Off",
+    "On"
+   ],
+   "default": 0
+  }
+ ]
+}

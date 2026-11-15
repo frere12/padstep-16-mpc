@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="10" viewBox="0 0 72 10">
+<defs><linearGradient id="play_off_fill" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#bcb8b2"/><stop offset="1" stop-color="#b0aca6"/></linearGradient>
+<linearGradient id="play_off_hl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="70" height="8" rx="4" fill="url(#play_off_fill)" stroke="#a6a29c" stroke-width="1.5"/>
+<rect x="2" y="2" width="68" height="3" rx="3" fill="url(#play_off_hl)"/>
+</svg>

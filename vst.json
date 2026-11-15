@@ -1,0 +1,31 @@
+{
+ "name": "PadStep 16",
+ "vendor": "Benoit",
+ "uid": "PdS6",
+ "version": 600,
+ "so": "padstep16.so",
+ "params": "params.json",
+ "layout": "layout.conf",
+ "build": {
+  "root": ".",
+  "sources": [
+   "src/padstep_engine.c"
+  ],
+  "cflags": [],
+  "libs": [
+   "-lm"
+  ]
+ },
+ "defines": {
+  "HAS_SONG_POS": 1,
+  "HAS_DISPLAY_REV": 1,
+  "PARAM_TEXT_MAX": 48
+ },
+ "cc": false,
+ "nrpn": false,
+ "targets": [
+  "armv7",
+  "aarch64"
+ ],
+ "art": "html"
+}
